@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=slice&height=160&text=Jung%20Hyein&desc=AI%20research%20engineer&descAlign=81.5&descAlignY=55&animation=fadeIn&fontColor=3D3D3D&fontSize=40&fontAlign=80&fontAlignY=30&color=FFF44F)
 
-
+<h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
 I'm Hyein Jung, a growing AI researcher. 🌱 <br>
   
