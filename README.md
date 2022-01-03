@@ -9,7 +9,7 @@ I'm , a growing AI researcher. 🌱
 <br>
   
 - 💼 Experience:
-  - Saltlux, Project maintenance Dept, **Channel Manager** (Full time), **2 years 10 month** (2016.05 ~ 2019.03)
+  - Saltlux, Project maintenance Dept, **Language Resource Management** (Full time), **2 years 10 month** (2016.05 ~ 2019.03)
   
 <h3>🌈 Interested in 🌈</h3> 
 <p >
