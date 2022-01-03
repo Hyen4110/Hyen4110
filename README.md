@@ -1,7 +1,7 @@
 <!-- ![Header](https://capsule-render.vercel.app/api?type=slice&height=160&text=Jung%20Hyein&desc=AI%20research%20engineer&descAlign=81&descAlignY=55&animation=fadeIn&fontColor=FFFFFF&fontSize=40&fontAlign=80&fontAlignY=30&color=FFCD01) -->
 <!-- ![Header](https://capsule-render.vercel.app/api?type=slice&height=160&text=Jung%20Hyein&animation=fadeIn&fontColor=FFFFFF&fontSize=40&fontAlign=80&fontAlignY=30&color=FFCD01)
  -->
-<h3> 👋 Hi there! I am Hyein Jung, growing AI researcher engineer 👋 </h3>
+<h3> 👋 Hi there! I am Hyein Jung 👋 </h3>
 
 <p>
 I'm , a growing AI researcher. 🌱 
