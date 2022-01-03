@@ -7,6 +7,13 @@
 I'm Hyein Jung, a growing AI researcher. 🌱 <br>
   
 <br>
+  <h3 align="center">🌈 Interested in 🌈</h3> 
+<p align="center">
+  <img src="https://img.shields.io/badge/-NLP-orange"/>
+  <img src="https://img.shields.io/badge/-Emotion Detection-red"/>
+  <img src="https://img.shields.io/badge/-Speech Recognition-blue"/>
+  <img src="https://img.shields.io/badge/-contrastive learning-black"/>&nbsp
+</p>
 <br>
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
