@@ -1,13 +1,17 @@
 <!-- ![Header](https://capsule-render.vercel.app/api?type=slice&height=160&text=Jung%20Hyein&desc=AI%20research%20engineer&descAlign=81&descAlignY=55&animation=fadeIn&fontColor=FFFFFF&fontSize=40&fontAlign=80&fontAlignY=30&color=FFCD01) -->
-![Header](https://capsule-render.vercel.app/api?type=slice&height=160&text=Jung%20Hyein&animation=fadeIn&fontColor=FFFFFF&fontSize=40&fontAlign=80&fontAlignY=30&color=FFCD01)
-
-<h3> 👋 Hi there 👋 </h3>
+<!-- ![Header](https://capsule-render.vercel.app/api?type=slice&height=160&text=Jung%20Hyein&animation=fadeIn&fontColor=FFFFFF&fontSize=40&fontAlign=80&fontAlignY=30&color=FFCD01)
+ -->
+<h3> 👋 Hi there! I am Hyein Jung, growing AI researcher engineer 👋 </h3>
 
 <p>
-I'm Hyein Jung, a growing AI researcher. 🌱 
+I'm , a growing AI researcher. 🌱 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyen4110%2Fhit-counter&count_bg=%2326695F&title_bg=%23E2E07A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 <br>
-  <h3 >🌈 Interested in 🌈</h3> 
+  
+- 💼 Experience:
+  - Saltlux, Project maintenance Dept, **Channel Manager** (Full time), **2 years 10 month** (2016.05 ~ 2019.03)
+  
+<h3>🌈 Interested in 🌈</h3> 
 <p >
   <img src="https://img.shields.io/badge/-NLP-orange"/>
   <img src="https://img.shields.io/badge/-Emotion Detection-red"/>
