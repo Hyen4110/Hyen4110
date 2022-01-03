@@ -7,7 +7,7 @@ I'm Hyein Jung, a growing AI researcher. 🌱
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyen4110%2Fhit-counter&count_bg=%2326695F&title_bg=%23E2E07A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 <br>
   <h3 >🌈 Interested in 🌈</h3> 
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/-NLP-orange"/>
   <img src="https://img.shields.io/badge/-Emotion Detection-red"/>
   <img src="https://img.shields.io/badge/-Speech Recognition-blue"/>
@@ -15,7 +15,7 @@ I'm Hyein Jung, a growing AI researcher. 🌱
 </p>
 <br>
 <!-- </p>
-<h3 align="center">📚 Technology Stack 📚</h3>
+<h3>📚 Technology Stack 📚</h3>
 
 <p >
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
