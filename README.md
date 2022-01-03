@@ -1,8 +1,5 @@
-### Hi there 👋
-
-<!--
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=0:FEFEE2,50:A1FFD9,100:FBF83A)
 **Hyen4110/Hyen4110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
