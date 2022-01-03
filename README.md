@@ -2,7 +2,7 @@
 
 <h3> 👋 Hi there 👋 </h3>
 
-<p align="center">
+<p>
 I'm Hyein Jung, a growing AI researcher. 🌱 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyen4110%2Fhit-counter&count_bg=%2326695F&title_bg=%23E2E07A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 <br>
@@ -23,9 +23,9 @@ I'm Hyein Jung, a growing AI researcher. 🌱
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 </p> -->
 
-<h3 align="center">•••</h3>
+<h3>•••</h3>
 
-<p align="center">
+<p >
   <a href="https://hyen4110.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://hyen4110.tistory.com/"/></a>&nbsp
   <a href="mailto:heianjung@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heianjung@gmail.com"></a>
   
