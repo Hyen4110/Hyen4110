@@ -1,8 +1,7 @@
 <!-- ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=0:FEFEE2,50:A1FFD9,100:FBF83A) -->
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hyen4110&animation=fadeIn&fontColor=FEFEE2&fontSize=30&fontAlign=50&fontAlignY=50&color=0:FEFEE2,50:118C4F)
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hyen4110&animation=fadeIn&fontColor=FEFEE2&fontSize=30&fontAlign=50&fontAlignY=50&color=0:FEFEE2,50:006A42)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=180&text=Hyen4110&animation=fadeIn&fontColor=FEFEE2&fontSize=30&fontAlign=50&fontAlignY=35&color=0:FEFEE2,50:118C4F)
 
-
+![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
 **Hyen4110/Hyen4110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
@@ -15,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&animation=fadeIn&rotate=-90&&fontColor=FEFEE2&fontSize=30&fontAlign=50&fontAlignY=35&color=0:FEFEE2,50:118C4F)
