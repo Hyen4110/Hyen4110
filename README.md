@@ -1,6 +1,4 @@
-<!-- ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=0:FEFEE2,50:A1FFD9,100:FBF83A) -->
-
-![Header](https://capsule-render.vercel.app/api?type=slice&height=160&text=Jung%20Hyein&desc=AI%20research%20engineer&descAlign=81.5&descAlignY=55&animation=fadeIn&fontColor=3D3D3D&fontSize=40&fontAlign=80&fontAlignY=30&color=FFF44F)
+![Header](https://capsule-render.vercel.app/api?type=slice&height=160&text=Jung%20Hyein&desc=AI%20research%20engineer&descAlign=81&descAlignY=55&animation=fadeIn&fontColor=3D3D3D&fontSize=40&fontAlign=80&fontAlignY=30&color=FFF44F)
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
