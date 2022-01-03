@@ -6,8 +6,11 @@
 <p align="center">
 I'm Hyein Jung, a growing AI researcher. 🌱 <br>
   
+<br>
+<br>
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>
@@ -23,5 +26,5 @@ I'm Hyein Jung, a growing AI researcher. 🌱 <br>
 </p
   
  
-![Footer](https://capsule-render.vercel.app/api?type=slice&height=160&animation=fadeIn&fontColor=FEFEE2&fontSize=40&fontAlign=80&fontAlignY=30&color=FFFF65&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=slice&height=160&animation=fadeIn&fontColor=FFFF8F&fontSize=40&fontAlign=80&fontAlignY=30&color=FFFF65&section=footer)
   
