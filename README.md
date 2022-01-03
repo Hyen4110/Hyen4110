@@ -1,6 +1,8 @@
 <!-- ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=0:FEFEE2,50:A1FFD9,100:FBF83A) -->
-![Header](https://capsule-render.vercel.app/api?type=soft&height=100&text=Jung%20Hyein&animation=fadeIn&fontColor=FEFEE2&fontSize=40&fontAlign=50&fontAlignY=50&color=0:204338,100:00ab66)
 ![Header](https://capsule-render.vercel.app/api?type=soft&height=100&text=Jung%20Hyein&animation=fadeIn&fontColor=FEFEE2&fontSize=40&fontAlign=50&fontAlignY=50&color=0:204338,100:2bd598)
+![Header](https://capsule-render.vercel.app/api?type=wave&height=100&text=Jung%20Hyein&animation=fadeIn&fontColor=FEFEE2&fontSize=40&fontAlign=50&fontAlignY=50&color=0:204338,100:2bd598)
+![Header](https://capsule-render.vercel.app/api?type=slice&height=100&text=Jung%20Hyein&animation=fadeIn&fontColor=FEFEE2&fontSize=40&fontAlign=50&fontAlignY=50&color=0:204338,100:2bd598)
+
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
