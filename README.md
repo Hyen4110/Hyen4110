@@ -8,8 +8,8 @@ I'm , a growing AI researcher. 🌱
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyen4110%2Fhit-counter&count_bg=%2326695F&title_bg=%23E2E07A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 <br>
   
-- 💼 Experience:
-  - Saltlux, Project maintenance Dept, **Language Resource Management** (Full time), **2 years 10 month** (2016.05 ~ 2019.03)
+<!-- - 💼 Experience:
+  - Saltlux, Project maintenance Dept, **Language Resource Management** (Full time), **2 years 10 month** (2016.05 ~ 2019.03) -->
   
 <h3>🌈 Interested in 🌈</h3> 
 <p >
