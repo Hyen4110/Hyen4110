@@ -5,28 +5,17 @@
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
-I'm Jihye Shin, a growing developer. 🌱 <br>
-I want to be a person who gives you new wisdom. ✨
+I'm Hyein Jung, a growing AI researcher. 🌱 <br>
+  
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-Kotlin-blueviolet"/>&nbsp  
-  <img src="https://img.shields.io/badge/-JavaScript-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-Python-blue"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-SpringBoot-brightgreen"/>&nbsp
-  <img src="https://img.shields.io/badge/-JPA-brightgreen"/>&nbsp
-  <img src="https://img.shields.io/badge/-Node.js-green"/>&nbsp
-  <img src="https://img.shields.io/badge/-Express.js-green"/>&nbsp
-  <img src="https://img.shields.io/badge/-Nginx-yellowgreen"/>&nbsp
-  <img src="https://img.shields.io/badge/-Docker-blue"/>&nbsp
 
   <br>
   <img src="https://img.shields.io/badge/-MySQL-navy"/>&nbsp
-  <img src="https://img.shields.io/badge/-MariaDB-navy"/>&nbsp
-  <img src="https://img.shields.io/badge/-Jenkins-lightgray"/>&nbsp
-  <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 </p>
 
