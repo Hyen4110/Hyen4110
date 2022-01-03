@@ -18,9 +18,8 @@ I'm Hyein Jung, a growing AI researcher. 🌱 <br>
 <h3 align="center">•••</h3>
 
 <p align="center">
-<!--   <a href="https://hyen4110.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://hyen4110.tistory.com/"/></a>&nbsp
-  <a href="https://velog.io/@new_wisdom"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp -->
-  <a href="mailto:hijung1221@yonsei.ac.kr><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hijung1221@yonsei.ac.kr"/></a>
+  <a href="https://hyen4110.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://hyen4110.tistory.com/"/></a>&nbsp
+  <a href="mailto:heianjung@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heianjung@gmail.com"></a>
   
 </p
   
