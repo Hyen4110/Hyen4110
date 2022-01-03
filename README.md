@@ -1,9 +1,10 @@
-![Header](https://capsule-render.vercel.app/api?type=slice&height=160&text=Jung%20Hyein&desc=AI%20research%20engineer&descAlign=81&descAlignY=55&animation=fadeIn&fontColor=3D3D3D&fontSize=40&fontAlign=80&fontAlignY=30&color=FFF44F)
+![Header](https://capsule-render.vercel.app/api?type=slice&height=160&text=Jung%20Hyein&desc=AI%20research%20engineer&descAlign=81&descAlignY=55&animation=fadeIn&fontColor=3D3D3D&fontSize=40&fontAlign=80&fontAlignY=30&color=FFFF65)
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
+
 <p align="center">
-I'm Hyein Jung, a growing AI researcher. 🌱 <br>
-  
+I'm Hyein Jung, a growing AI researcher. 🌱 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyen4110%2Fhit-counter&count_bg=%2326695F&title_bg=%23E2E07A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 <br>
   <h3 align="center">🌈 Interested in 🌈</h3> 
 <p align="center">
@@ -31,5 +32,5 @@ I'm Hyein Jung, a growing AI researcher. 🌱 <br>
 </p
   
  
-![Footer](https://capsule-render.vercel.app/api?type=slice&height=160&animation=fadeIn&fontColor=FFFF8F&fontSize=40&fontAlign=80&fontAlignY=30&color=FFFF65&section=footer)
+<!-- ![Footer](https://capsule-render.vercel.app/api?type=slice&height=160&animation=fadeIn&fontColor=FFFF8F&fontSize=40&fontAlign=80&fontAlignY=30&color=FFFF65&section=footer) -->
   
