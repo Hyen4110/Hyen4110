@@ -1,8 +1,5 @@
 <!-- ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=0:FEFEE2,50:A1FFD9,100:FBF83A) -->
-![Header](https://capsule-render.vercel.app/api?type=waving&height=180&text=Hyen4110&animation=fadeIn&fontColor=FEFEE2&fontSize=30&fontAlign=50&fontAlignY=35&color=118C4F)
-
-![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=new%20Wisdom();&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
-
+![Header](https://capsule-render.vercel.app/api?type=rounded&height=100&text=Jung%20Hyein&animation=fadeIn&fontColor=FEFEE2&fontSize=50&fontAlign=50&fontAlignY=50&color=D5D50D)
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
@@ -38,7 +35,4 @@ I want to be a person who gives you new wisdom. ✨
   <a href="https://velog.io/@new_wisdom"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
   <a href="mailto:wlgp2500@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlgp2500@gmail.com"/></a>
   
-</p>
-
-![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
-
+</p
